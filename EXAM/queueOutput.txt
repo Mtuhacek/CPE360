@@ -1,0 +1,1436 @@
+At time: 1 No new customers arrived
+At time: 2 We have 1 new customer
+Just added a new customer to the line: 2 and order time: 5
+At time: 3 No new customers arrived
+At time: 4 We have 1 new customer
+Just added a new customer to the line: 4 and order time: 5
+At time: 5 No new customers arrived
+At time: 6 No new customers arrived
+At time: 7 We have 1 new customer
+Just added a new customer to the line: 7 and order time: 4
+At time: 7 Customer left
+At time: 8 No new customers arrived
+At time: 9 No new customers arrived
+At time: 10 We have 1 new customer
+Just added a new customer to the line: 10 and order time: 2
+At time: 11 No new customers arrived
+At time: 12 We have 1 new customer
+Just added a new customer to the line: 12 and order time: 1
+At time: 13 No new customers arrived
+At time: 13 Customer left
+At time: 14 No new customers arrived
+At time: 15 No new customers arrived
+At time: 16 No new customers arrived
+At time: 17 No new customers arrived
+At time: 18 We have 1 new customer
+Just added a new customer to the line: 18 and order time: 1
+At time: 18 Customer left
+At time: 19 We have 1 new customer
+Just added a new customer to the line: 19 and order time: 6
+At time: 20 We have 1 new customer
+Just added a new customer to the line: 20 and order time: 1
+At time: 21 No new customers arrived
+At time: 21 Customer left
+At time: 22 We have 1 new customer
+Just added a new customer to the line: 22 and order time: 3
+At time: 23 We have 1 new customer
+Just added a new customer to the line: 23 and order time: 5
+At time: 23 Customer left
+At time: 24 We have 1 new customer
+Just added a new customer to the line: 24 and order time: 2
+At time: 25 No new customers arrived
+At time: 25 Customer left
+At time: 26 No new customers arrived
+At time: 27 No new customers arrived
+At time: 28 We have 1 new customer
+Just added a new customer to the line: 28 and order time: 4
+At time: 29 No new customers arrived
+At time: 30 No new customers arrived
+At time: 31 No new customers arrived
+At time: 32 No new customers arrived
+At time: 32 Customer left
+At time: 33 We have 1 new customer
+Just added a new customer to the line: 33 and order time: 2
+At time: 34 We have 1 new customer
+Just added a new customer to the line: 34 and order time: 6
+At time: 34 Customer left
+At time: 35 We have 1 new customer
+Just added a new customer to the line: 35 and order time: 4
+At time: 36 No new customers arrived
+At time: 37 We have 1 new customer
+Just added a new customer to the line: 37 and order time: 3
+At time: 38 No new customers arrived
+At time: 38 Customer left
+At time: 39 No new customers arrived
+At time: 40 No new customers arrived
+At time: 41 We have 1 new customer
+Just added a new customer to the line: 41 and order time: 2
+At time: 42 No new customers arrived
+At time: 43 No new customers arrived
+At time: 44 We have 1 new customer
+Just added a new customer to the line: 44 and order time: 1
+At time: 44 Customer left
+At time: 45 No new customers arrived
+At time: 46 No new customers arrived
+At time: 47 No new customers arrived
+At time: 47 Customer left
+At time: 48 No new customers arrived
+At time: 49 We have 1 new customer
+Just added a new customer to the line: 49 and order time: 2
+At time: 50 We have 1 new customer
+Just added a new customer to the line: 50 and order time: 5
+At time: 51 No new customers arrived
+At time: 52 No new customers arrived
+At time: 52 Customer left
+At time: 53 No new customers arrived
+At time: 54 No new customers arrived
+At time: 55 No new customers arrived
+At time: 55 Customer left
+At time: 56 We have 1 new customer
+Just added a new customer to the line: 56 and order time: 1
+At time: 57 We have 1 new customer
+Just added a new customer to the line: 57 and order time: 6
+At time: 58 We have 1 new customer
+Just added a new customer to the line: 58 and order time: 4
+At time: 59 We have 1 new customer
+Just added a new customer to the line: 59 and order time: 1
+At time: 60 No new customers arrived
+At time: 61 No new customers arrived
+At time: 62 No new customers arrived
+At time: 62 Customer left
+At time: 63 No new customers arrived
+At time: 64 No new customers arrived
+At time: 65 No new customers arrived
+At time: 66 We have 1 new customer
+Just added a new customer to the line: 66 and order time: 3
+At time: 67 We have 1 new customer
+Just added a new customer to the line: 67 and order time: 1
+At time: 67 Customer left
+At time: 68 No new customers arrived
+At time: 69 No new customers arrived
+At time: 70 We have 1 new customer
+Just added a new customer to the line: 70 and order time: 3
+At time: 71 No new customers arrived
+At time: 71 Customer left
+At time: 72 No new customers arrived
+At time: 73 No new customers arrived
+At time: 74 No new customers arrived
+At time: 74 Customer left
+At time: 75 No new customers arrived
+At time: 76 No new customers arrived
+At time: 76 Customer left
+At time: 77 We have 1 new customer
+Just added a new customer to the line: 77 and order time: 3
+At time: 78 No new customers arrived
+At time: 79 No new customers arrived
+At time: 79 Customer left
+At time: 80 No new customers arrived
+At time: 81 No new customers arrived
+At time: 82 No new customers arrived
+At time: 83 We have 1 new customer
+Just added a new customer to the line: 83 and order time: 4
+At time: 84 No new customers arrived
+At time: 85 No new customers arrived
+At time: 85 Customer left
+At time: 86 We have 1 new customer
+Just added a new customer to the line: 86 and order time: 4
+At time: 87 We have 1 new customer
+Just added a new customer to the line: 87 and order time: 4
+At time: 87 Customer left
+At time: 88 No new customers arrived
+At time: 89 No new customers arrived
+At time: 90 We have 1 new customer
+Just added a new customer to the line: 90 and order time: 5
+At time: 91 We have 1 new customer
+Just added a new customer to the line: 91 and order time: 4
+At time: 92 We have 1 new customer
+Just added a new customer to the line: 92 and order time: 1
+At time: 93 We have 1 new customer
+Just added a new customer to the line: 93 and order time: 3
+At time: 94 No new customers arrived
+At time: 94 Customer left
+At time: 95 No new customers arrived
+At time: 96 No new customers arrived
+At time: 97 No new customers arrived
+At time: 98 No new customers arrived
+At time: 99 No new customers arrived
+At time: 99 Customer left
+At time: 100 No new customers arrived
+At time: 101 No new customers arrived
+At time: 101 Customer left
+At time: 102 No new customers arrived
+At time: 103 No new customers arrived
+At time: 104 No new customers arrived
+At time: 105 No new customers arrived
+At time: 105 Customer left
+At time: 106 We have 1 new customer
+Just added a new customer to the line: 106 and order time: 2
+At time: 107 No new customers arrived
+At time: 107 Customer left
+At time: 108 No new customers arrived
+At time: 109 We have 1 new customer
+Just added a new customer to the line: 109 and order time: 2
+At time: 110 No new customers arrived
+At time: 111 No new customers arrived
+At time: 111 Customer left
+At time: 112 We have 1 new customer
+Just added a new customer to the line: 112 and order time: 4
+At time: 113 We have 1 new customer
+Just added a new customer to the line: 113 and order time: 3
+At time: 114 No new customers arrived
+At time: 115 No new customers arrived
+At time: 115 Customer left
+At time: 116 No new customers arrived
+At time: 117 No new customers arrived
+At time: 118 We have 1 new customer
+Just added a new customer to the line: 118 and order time: 1
+At time: 119 No new customers arrived
+At time: 120 We have 1 new customer
+Just added a new customer to the line: 120 and order time: 6
+At time: 120 Customer left
+At time: 121 No new customers arrived
+At time: 122 We have 1 new customer
+Just added a new customer to the line: 122 and order time: 4
+At time: 123 No new customers arrived
+At time: 124 We have 1 new customer
+Just added a new customer to the line: 124 and order time: 6
+At time: 125 No new customers arrived
+At time: 125 Customer left
+At time: 126 No new customers arrived
+At time: 127 No new customers arrived
+At time: 128 No new customers arrived
+At time: 129 No new customers arrived
+At time: 130 No new customers arrived
+At time: 130 Customer left
+At time: 131 No new customers arrived
+At time: 132 No new customers arrived
+At time: 133 We have 1 new customer
+Just added a new customer to the line: 133 and order time: 6
+At time: 134 No new customers arrived
+At time: 135 No new customers arrived
+At time: 136 No new customers arrived
+At time: 136 Customer left
+At time: 137 No new customers arrived
+At time: 138 No new customers arrived
+At time: 139 No new customers arrived
+At time: 140 No new customers arrived
+At time: 141 No new customers arrived
+At time: 141 Customer left
+At time: 142 No new customers arrived
+At time: 143 We have 1 new customer
+Just added a new customer to the line: 143 and order time: 6
+At time: 143 Customer left
+At time: 144 No new customers arrived
+At time: 145 No new customers arrived
+At time: 146 No new customers arrived
+At time: 147 No new customers arrived
+At time: 147 Customer left
+At time: 148 No new customers arrived
+At time: 149 No new customers arrived
+At time: 150 No new customers arrived
+At time: 150 Customer left
+At time: 151 No new customers arrived
+At time: 152 No new customers arrived
+At time: 153 No new customers arrived
+At time: 153 Customer left
+At time: 154 No new customers arrived
+At time: 155 No new customers arrived
+At time: 156 No new customers arrived
+At time: 157 No new customers arrived
+At time: 158 No new customers arrived
+At time: 158 Customer left
+At time: 159 No new customers arrived
+At time: 160 No new customers arrived
+At time: 161 No new customers arrived
+At time: 162 No new customers arrived
+At time: 162 Customer left
+At time: 163 No new customers arrived
+At time: 164 No new customers arrived
+At time: 164 Customer left
+At time: 165 No new customers arrived
+At time: 166 No new customers arrived
+At time: 167 No new customers arrived
+At time: 168 No new customers arrived
+At time: 169 No new customers arrived
+At time: 170 No new customers arrived
+At time: 171 No new customers arrived
+At time: 171 Customer left
+At time: 172 No new customers arrived
+At time: 173 No new customers arrived
+At time: 174 No new customers arrived
+At time: 175 No new customers arrived
+At time: 176 No new customers arrived
+At time: 176 Customer left
+At time: 177 No new customers arrived
+At time: 178 We have 1 new customer
+Just added a new customer to the line: 178 and order time: 2
+At time: 179 No new customers arrived
+At time: 180 No new customers arrived
+At time: 181 No new customers arrived
+At time: 182 No new customers arrived
+At time: 183 No new customers arrived
+At time: 183 Customer left
+At time: 184 No new customers arrived
+At time: 185 No new customers arrived
+At time: 186 No new customers arrived
+At time: 187 No new customers arrived
+At time: 188 No new customers arrived
+At time: 189 No new customers arrived
+At time: 190 No new customers arrived
+At time: 190 Customer left
+At time: 191 No new customers arrived
+At time: 192 No new customers arrived
+At time: 193 No new customers arrived
+At time: 194 No new customers arrived
+At time: 195 No new customers arrived
+At time: 196 We have 1 new customer
+Just added a new customer to the line: 196 and order time: 1
+At time: 197 We have 1 new customer
+Just added a new customer to the line: 197 and order time: 2
+At time: 197 Customer left
+At time: 198 We have 1 new customer
+Just added a new customer to the line: 198 and order time: 2
+At time: 199 No new customers arrived
+At time: 200 No new customers arrived
+At time: 200 Customer left
+At time: 201 No new customers arrived
+At time: 202 No new customers arrived
+At time: 202 Customer left
+At time: 203 No new customers arrived
+At time: 204 No new customers arrived
+At time: 205 No new customers arrived
+At time: 205 Customer left
+At time: 206 No new customers arrived
+At time: 207 No new customers arrived
+At time: 208 No new customers arrived
+At time: 208 Customer left
+At time: 209 No new customers arrived
+At time: 210 We have 1 new customer
+Just added a new customer to the line: 210 and order time: 2
+At time: 211 No new customers arrived
+At time: 212 No new customers arrived
+At time: 212 Customer left
+At time: 213 No new customers arrived
+At time: 214 We have 1 new customer
+Just added a new customer to the line: 214 and order time: 2
+At time: 215 No new customers arrived
+At time: 216 No new customers arrived
+At time: 216 Customer left
+At time: 217 No new customers arrived
+At time: 218 No new customers arrived
+At time: 219 We have 1 new customer
+Just added a new customer to the line: 219 and order time: 6
+At time: 220 No new customers arrived
+At time: 221 We have 1 new customer
+Just added a new customer to the line: 221 and order time: 6
+At time: 222 We have 1 new customer
+Just added a new customer to the line: 222 and order time: 4
+At time: 223 No new customers arrived
+At time: 224 No new customers arrived
+At time: 225 We have 1 new customer
+Just added a new customer to the line: 225 and order time: 2
+At time: 225 Customer left
+At time: 226 We have 1 new customer
+Just added a new customer to the line: 226 and order time: 1
+At time: 227 We have 1 new customer
+Just added a new customer to the line: 227 and order time: 6
+At time: 228 No new customers arrived
+At time: 229 We have 1 new customer
+Just added a new customer to the line: 229 and order time: 3
+At time: 230 We have 1 new customer
+Just added a new customer to the line: 230 and order time: 4
+At time: 231 We have 1 new customer
+Just added a new customer to the line: 231 and order time: 3
+At time: 232 No new customers arrived
+At time: 232 Customer left
+At time: 233 No new customers arrived
+At time: 234 We have 1 new customer
+Just added a new customer to the line: 234 and order time: 3
+At time: 235 No new customers arrived
+At time: 236 No new customers arrived
+At time: 237 No new customers arrived
+At time: 237 Customer left
+At time: 238 We have 1 new customer
+Just added a new customer to the line: 238 and order time: 1
+At time: 239 No new customers arrived
+At time: 240 We have 1 new customer
+Just added a new customer to the line: 240 and order time: 2
+At time: 240 Customer left
+At time: 241 No new customers arrived
+At time: 242 No new customers arrived
+At time: 242 Customer left
+At time: 243 No new customers arrived
+At time: 244 We have 1 new customer
+Just added a new customer to the line: 244 and order time: 5
+At time: 245 No new customers arrived
+At time: 246 No new customers arrived
+At time: 247 We have 1 new customer
+Just added a new customer to the line: 247 and order time: 3
+At time: 248 We have 1 new customer
+Just added a new customer to the line: 248 and order time: 1
+At time: 249 We have 1 new customer
+Just added a new customer to the line: 249 and order time: 3
+At time: 249 Customer left
+At time: 250 We have 1 new customer
+Just added a new customer to the line: 250 and order time: 2
+At time: 251 We have 1 new customer
+Just added a new customer to the line: 251 and order time: 3
+At time: 252 No new customers arrived
+At time: 253 We have 1 new customer
+Just added a new customer to the line: 253 and order time: 3
+At time: 253 Customer left
+At time: 254 No new customers arrived
+At time: 255 No new customers arrived
+At time: 256 We have 1 new customer
+Just added a new customer to the line: 256 and order time: 4
+At time: 257 No new customers arrived
+At time: 258 We have 1 new customer
+Just added a new customer to the line: 258 and order time: 4
+At time: 258 Customer left
+At time: 259 We have 1 new customer
+Just added a new customer to the line: 259 and order time: 1
+At time: 260 We have 1 new customer
+Just added a new customer to the line: 260 and order time: 2
+At time: 261 We have 1 new customer
+Just added a new customer to the line: 261 and order time: 1
+At time: 262 No new customers arrived
+At time: 262 Customer left
+At time: 263 We have 1 new customer
+Just added a new customer to the line: 263 and order time: 2
+At time: 264 We have 1 new customer
+Just added a new customer to the line: 264 and order time: 4
+At time: 265 We have 1 new customer
+Just added a new customer to the line: 265 and order time: 5
+At time: 266 We have 1 new customer
+Just added a new customer to the line: 266 and order time: 2
+At time: 266 Customer left
+At time: 267 No new customers arrived
+At time: 268 No new customers arrived
+At time: 268 Customer left
+At time: 269 No new customers arrived
+At time: 270 We have 1 new customer
+Just added a new customer to the line: 270 and order time: 1
+At time: 271 We have 1 new customer
+Just added a new customer to the line: 271 and order time: 6
+At time: 271 Customer left
+At time: 272 No new customers arrived
+At time: 273 No new customers arrived
+At time: 274 We have 1 new customer
+Just added a new customer to the line: 274 and order time: 6
+At time: 275 We have 1 new customer
+Just added a new customer to the line: 275 and order time: 2
+At time: 276 No new customers arrived
+At time: 277 No new customers arrived
+At time: 277 Customer left
+At time: 278 No new customers arrived
+At time: 279 We have 1 new customer
+Just added a new customer to the line: 279 and order time: 3
+At time: 280 No new customers arrived
+At time: 281 No new customers arrived
+At time: 281 Customer left
+At time: 282 We have 1 new customer
+Just added a new customer to the line: 282 and order time: 2
+At time: 283 No new customers arrived
+At time: 283 Customer left
+At time: 284 We have 1 new customer
+Just added a new customer to the line: 284 and order time: 5
+At time: 285 We have 1 new customer
+Just added a new customer to the line: 285 and order time: 6
+At time: 286 We have 1 new customer
+Just added a new customer to the line: 286 and order time: 3
+At time: 287 No new customers arrived
+At time: 287 Customer left
+At time: 288 We have 1 new customer
+Just added a new customer to the line: 288 and order time: 1
+At time: 289 We have 1 new customer
+Just added a new customer to the line: 289 and order time: 6
+At time: 290 No new customers arrived
+At time: 290 Customer left
+At time: 291 No new customers arrived
+At time: 292 No new customers arrived
+At time: 293 We have 1 new customer
+Just added a new customer to the line: 293 and order time: 6
+At time: 294 We have 1 new customer
+Just added a new customer to the line: 294 and order time: 5
+At time: 294 Customer left
+At time: 295 We have 1 new customer
+Just added a new customer to the line: 295 and order time: 5
+At time: 296 No new customers arrived
+At time: 297 We have 1 new customer
+Just added a new customer to the line: 297 and order time: 2
+At time: 298 No new customers arrived
+At time: 298 Customer left
+At time: 299 We have 1 new customer
+Just added a new customer to the line: 299 and order time: 3
+At time: 300 No new customers arrived
+At time: 301 No new customers arrived
+At time: 302 No new customers arrived
+At time: 303 No new customers arrived
+At time: 303 Customer left
+At time: 304 No new customers arrived
+At time: 305 No new customers arrived
+At time: 306 We have 1 new customer
+Just added a new customer to the line: 306 and order time: 6
+At time: 307 We have 1 new customer
+Just added a new customer to the line: 307 and order time: 4
+At time: 308 No new customers arrived
+At time: 308 Customer left
+At time: 309 No new customers arrived
+At time: 310 We have 1 new customer
+Just added a new customer to the line: 310 and order time: 2
+At time: 310 Customer left
+At time: 311 We have 1 new customer
+Just added a new customer to the line: 311 and order time: 3
+At time: 312 We have 1 new customer
+Just added a new customer to the line: 312 and order time: 3
+At time: 313 No new customers arrived
+At time: 313 Customer left
+At time: 314 No new customers arrived
+At time: 315 No new customers arrived
+At time: 315 Customer left
+At time: 316 No new customers arrived
+At time: 317 No new customers arrived
+At time: 318 No new customers arrived
+At time: 318 Customer left
+At time: 319 We have 1 new customer
+Just added a new customer to the line: 319 and order time: 2
+At time: 320 No new customers arrived
+At time: 321 No new customers arrived
+At time: 322 No new customers arrived
+At time: 323 No new customers arrived
+At time: 323 Customer left
+At time: 324 No new customers arrived
+At time: 325 We have 1 new customer
+Just added a new customer to the line: 325 and order time: 4
+At time: 326 No new customers arrived
+At time: 327 No new customers arrived
+At time: 328 No new customers arrived
+At time: 329 No new customers arrived
+At time: 329 Customer left
+At time: 330 No new customers arrived
+At time: 331 No new customers arrived
+At time: 332 No new customers arrived
+At time: 332 Customer left
+At time: 333 No new customers arrived
+At time: 334 We have 1 new customer
+Just added a new customer to the line: 334 and order time: 6
+At time: 334 Customer left
+At time: 335 No new customers arrived
+At time: 336 No new customers arrived
+At time: 337 No new customers arrived
+At time: 338 No new customers arrived
+At time: 339 No new customers arrived
+At time: 340 No new customers arrived
+At time: 341 No new customers arrived
+At time: 341 Customer left
+At time: 342 No new customers arrived
+At time: 343 We have 1 new customer
+Just added a new customer to the line: 343 and order time: 5
+At time: 344 No new customers arrived
+At time: 345 No new customers arrived
+At time: 346 No new customers arrived
+At time: 347 We have 1 new customer
+Just added a new customer to the line: 347 and order time: 3
+At time: 348 No new customers arrived
+At time: 348 Customer left
+At time: 349 No new customers arrived
+At time: 350 No new customers arrived
+At time: 351 No new customers arrived
+At time: 351 Customer left
+At time: 352 No new customers arrived
+At time: 353 No new customers arrived
+At time: 354 No new customers arrived
+At time: 355 No new customers arrived
+At time: 355 Customer left
+At time: 356 We have 1 new customer
+Just added a new customer to the line: 356 and order time: 5
+At time: 357 No new customers arrived
+At time: 358 No new customers arrived
+At time: 358 Customer left
+At time: 359 No new customers arrived
+At time: 360 No new customers arrived
+At time: 361 No new customers arrived
+At time: 362 No new customers arrived
+At time: 363 No new customers arrived
+At time: 364 No new customers arrived
+At time: 364 Customer left
+At time: 365 No new customers arrived
+At time: 366 No new customers arrived
+At time: 367 No new customers arrived
+At time: 368 No new customers arrived
+At time: 369 No new customers arrived
+At time: 370 No new customers arrived
+At time: 371 We have 1 new customer
+Just added a new customer to the line: 371 and order time: 2
+At time: 371 Customer left
+At time: 372 No new customers arrived
+At time: 373 No new customers arrived
+At time: 374 No new customers arrived
+At time: 375 No new customers arrived
+At time: 375 Customer left
+At time: 376 We have 1 new customer
+Just added a new customer to the line: 376 and order time: 3
+At time: 377 No new customers arrived
+At time: 377 Customer left
+At time: 378 No new customers arrived
+At time: 379 No new customers arrived
+At time: 380 No new customers arrived
+At time: 381 No new customers arrived
+At time: 382 No new customers arrived
+At time: 383 No new customers arrived
+At time: 384 No new customers arrived
+At time: 384 Customer left
+At time: 385 No new customers arrived
+At time: 386 No new customers arrived
+At time: 387 No new customers arrived
+At time: 388 No new customers arrived
+At time: 389 No new customers arrived
+At time: 390 No new customers arrived
+At time: 391 No new customers arrived
+At time: 391 Customer left
+At time: 392 We have 1 new customer
+Just added a new customer to the line: 392 and order time: 5
+At time: 393 No new customers arrived
+At time: 394 No new customers arrived
+At time: 395 No new customers arrived
+At time: 396 No new customers arrived
+At time: 397 No new customers arrived
+At time: 397 Customer left
+At time: 398 No new customers arrived
+At time: 399 No new customers arrived
+At time: 400 No new customers arrived
+At time: 401 No new customers arrived
+At time: 402 No new customers arrived
+At time: 403 No new customers arrived
+At time: 403 Customer left
+At time: 404 No new customers arrived
+At time: 405 No new customers arrived
+At time: 406 No new customers arrived
+At time: 406 Customer left
+At time: 407 No new customers arrived
+At time: 408 No new customers arrived
+At time: 409 No new customers arrived
+At time: 410 No new customers arrived
+At time: 410 Customer left
+At time: 411 No new customers arrived
+At time: 412 No new customers arrived
+At time: 413 No new customers arrived
+At time: 414 No new customers arrived
+At time: 415 No new customers arrived
+At time: 416 No new customers arrived
+At time: 417 No new customers arrived
+At time: 417 Customer left
+At time: 418 No new customers arrived
+At time: 419 No new customers arrived
+At time: 420 No new customers arrived
+At time: 421 No new customers arrived
+At time: 422 No new customers arrived
+At time: 422 Customer left
+At time: 423 No new customers arrived
+At time: 424 No new customers arrived
+At time: 425 No new customers arrived
+At time: 425 Customer left
+At time: 426 No new customers arrived
+At time: 427 No new customers arrived
+At time: 428 No new customers arrived
+At time: 429 No new customers arrived
+At time: 429 Customer left
+At time: 430 No new customers arrived
+At time: 431 No new customers arrived
+At time: 432 No new customers arrived
+At time: 433 No new customers arrived
+At time: 433 Customer left
+At time: 434 No new customers arrived
+At time: 435 No new customers arrived
+At time: 436 No new customers arrived
+At time: 436 Customer left
+At time: 437 No new customers arrived
+At time: 438 No new customers arrived
+At time: 439 No new customers arrived
+At time: 440 No new customers arrived
+At time: 441 No new customers arrived
+At time: 441 Customer left
+At time: 442 No new customers arrived
+At time: 443 No new customers arrived
+At time: 444 We have 1 new customer
+Just added a new customer to the line: 444 and order time: 4
+At time: 445 We have 1 new customer
+Just added a new customer to the line: 445 and order time: 5
+At time: 446 No new customers arrived
+At time: 447 No new customers arrived
+At time: 448 We have 1 new customer
+Just added a new customer to the line: 448 and order time: 3
+At time: 448 Customer left
+At time: 449 No new customers arrived
+At time: 450 No new customers arrived
+At time: 451 No new customers arrived
+At time: 452 No new customers arrived
+At time: 453 We have 1 new customer
+Just added a new customer to the line: 453 and order time: 4
+At time: 454 No new customers arrived
+At time: 454 Customer left
+At time: 455 No new customers arrived
+At time: 456 No new customers arrived
+At time: 457 No new customers arrived
+At time: 458 No new customers arrived
+At time: 458 Customer left
+At time: 459 No new customers arrived
+At time: 460 No new customers arrived
+At time: 461 No new customers arrived
+At time: 462 No new customers arrived
+At time: 463 No new customers arrived
+At time: 464 No new customers arrived
+At time: 464 Customer left
+At time: 465 We have 1 new customer
+Just added a new customer to the line: 465 and order time: 2
+At time: 466 No new customers arrived
+At time: 467 No new customers arrived
+At time: 467 Customer left
+At time: 468 No new customers arrived
+At time: 469 No new customers arrived
+At time: 470 No new customers arrived
+At time: 471 No new customers arrived
+At time: 471 Customer left
+At time: 472 No new customers arrived
+At time: 473 We have 1 new customer
+Just added a new customer to the line: 473 and order time: 3
+At time: 474 We have 1 new customer
+Just added a new customer to the line: 474 and order time: 3
+At time: 475 No new customers arrived
+At time: 476 No new customers arrived
+At time: 477 No new customers arrived
+At time: 477 Customer left
+At time: 478 No new customers arrived
+At time: 479 No new customers arrived
+At time: 480 We have 1 new customer
+Just added a new customer to the line: 480 and order time: 4
+At time: 481 No new customers arrived
+At time: 482 No new customers arrived
+At time: 482 Customer left
+At time: 483 No new customers arrived
+At time: 484 No new customers arrived
+At time: 485 No new customers arrived
+At time: 486 No new customers arrived
+At time: 487 No new customers arrived
+At time: 488 No new customers arrived
+At time: 488 Customer left
+At time: 489 No new customers arrived
+At time: 490 No new customers arrived
+At time: 491 No new customers arrived
+At time: 492 No new customers arrived
+At time: 492 Customer left
+At time: 493 No new customers arrived
+At time: 494 No new customers arrived
+At time: 495 No new customers arrived
+At time: 496 We have 1 new customer
+Just added a new customer to the line: 496 and order time: 2
+At time: 497 No new customers arrived
+At time: 497 Customer left
+At time: 498 No new customers arrived
+At time: 499 No new customers arrived
+At time: 500 No new customers arrived
+At time: 500 Customer left
+At time: 501 No new customers arrived
+At time: 502 No new customers arrived
+At time: 503 No new customers arrived
+At time: 504 No new customers arrived
+At time: 504 Customer left
+At time: 505 No new customers arrived
+At time: 506 No new customers arrived
+At time: 507 No new customers arrived
+At time: 508 No new customers arrived
+At time: 508 Customer left
+At time: 509 No new customers arrived
+At time: 510 No new customers arrived
+At time: 511 No new customers arrived
+At time: 512 No new customers arrived
+At time: 513 No new customers arrived
+At time: 513 Customer left
+At time: 514 No new customers arrived
+At time: 515 We have 1 new customer
+Just added a new customer to the line: 515 and order time: 1
+At time: 516 No new customers arrived
+At time: 516 Customer left
+At time: 517 No new customers arrived
+At time: 518 No new customers arrived
+At time: 518 Customer left
+At time: 519 No new customers arrived
+At time: 520 No new customers arrived
+At time: 521 No new customers arrived
+At time: 522 No new customers arrived
+At time: 523 No new customers arrived
+At time: 524 No new customers arrived
+At time: 525 No new customers arrived
+At time: 526 No new customers arrived
+At time: 527 No new customers arrived
+At time: 528 No new customers arrived
+At time: 529 No new customers arrived
+At time: 530 No new customers arrived
+At time: 531 No new customers arrived
+At time: 532 No new customers arrived
+At time: 533 No new customers arrived
+At time: 534 No new customers arrived
+At time: 535 No new customers arrived
+At time: 536 No new customers arrived
+At time: 537 No new customers arrived
+At time: 538 No new customers arrived
+At time: 539 No new customers arrived
+At time: 540 We have 1 new customer
+Just added a new customer to the line: 540 and order time: 2
+At time: 541 No new customers arrived
+At time: 542 No new customers arrived
+At time: 542 Customer left
+At time: 543 No new customers arrived
+At time: 544 No new customers arrived
+At time: 545 No new customers arrived
+At time: 546 No new customers arrived
+At time: 547 No new customers arrived
+At time: 548 No new customers arrived
+At time: 549 No new customers arrived
+At time: 550 No new customers arrived
+At time: 551 No new customers arrived
+At time: 552 No new customers arrived
+At time: 553 No new customers arrived
+At time: 554 No new customers arrived
+At time: 555 No new customers arrived
+At time: 556 No new customers arrived
+At time: 557 No new customers arrived
+At time: 558 No new customers arrived
+At time: 559 No new customers arrived
+At time: 560 No new customers arrived
+At time: 561 We have 1 new customer
+Just added a new customer to the line: 561 and order time: 4
+At time: 562 No new customers arrived
+At time: 563 No new customers arrived
+At time: 564 No new customers arrived
+At time: 565 No new customers arrived
+At time: 565 Customer left
+At time: 566 No new customers arrived
+At time: 567 No new customers arrived
+At time: 568 No new customers arrived
+At time: 569 No new customers arrived
+At time: 570 No new customers arrived
+At time: 571 No new customers arrived
+At time: 572 No new customers arrived
+At time: 573 We have 1 new customer
+Just added a new customer to the line: 573 and order time: 5
+At time: 574 No new customers arrived
+At time: 575 No new customers arrived
+At time: 576 We have 1 new customer
+Just added a new customer to the line: 576 and order time: 6
+At time: 577 We have 1 new customer
+Just added a new customer to the line: 577 and order time: 1
+At time: 578 No new customers arrived
+At time: 578 Customer left
+At time: 579 No new customers arrived
+At time: 580 No new customers arrived
+At time: 581 We have 1 new customer
+Just added a new customer to the line: 581 and order time: 1
+At time: 582 No new customers arrived
+At time: 583 No new customers arrived
+At time: 584 No new customers arrived
+At time: 585 No new customers arrived
+At time: 585 Customer left
+At time: 586 We have 1 new customer
+Just added a new customer to the line: 586 and order time: 1
+At time: 587 No new customers arrived
+At time: 587 Customer left
+At time: 588 No new customers arrived
+At time: 589 No new customers arrived
+At time: 589 Customer left
+At time: 590 We have 1 new customer
+Just added a new customer to the line: 590 and order time: 2
+At time: 591 No new customers arrived
+At time: 591 Customer left
+At time: 592 No new customers arrived
+At time: 593 No new customers arrived
+At time: 594 No new customers arrived
+At time: 594 Customer left
+At time: 595 No new customers arrived
+At time: 596 No new customers arrived
+At time: 597 No new customers arrived
+At time: 598 We have 1 new customer
+Just added a new customer to the line: 598 and order time: 3
+At time: 599 No new customers arrived
+At time: 600 No new customers arrived
+At time: 601 We have 1 new customer
+Just added a new customer to the line: 601 and order time: 1
+At time: 601 Customer left
+At time: 602 No new customers arrived
+At time: 603 We have 1 new customer
+Just added a new customer to the line: 603 and order time: 6
+At time: 603 Customer left
+At time: 604 We have 1 new customer
+Just added a new customer to the line: 604 and order time: 6
+At time: 605 No new customers arrived
+At time: 606 No new customers arrived
+At time: 607 We have 1 new customer
+Just added a new customer to the line: 607 and order time: 4
+At time: 608 No new customers arrived
+At time: 609 No new customers arrived
+At time: 610 No new customers arrived
+At time: 610 Customer left
+At time: 611 No new customers arrived
+At time: 612 We have 1 new customer
+Just added a new customer to the line: 612 and order time: 6
+At time: 613 No new customers arrived
+At time: 614 We have 1 new customer
+Just added a new customer to the line: 614 and order time: 2
+At time: 615 No new customers arrived
+At time: 616 No new customers arrived
+At time: 617 We have 1 new customer
+Just added a new customer to the line: 617 and order time: 2
+At time: 617 Customer left
+At time: 618 No new customers arrived
+At time: 619 We have 1 new customer
+Just added a new customer to the line: 619 and order time: 3
+At time: 620 We have 1 new customer
+Just added a new customer to the line: 620 and order time: 2
+At time: 621 No new customers arrived
+At time: 622 No new customers arrived
+At time: 622 Customer left
+At time: 623 We have 1 new customer
+Just added a new customer to the line: 623 and order time: 1
+At time: 624 No new customers arrived
+At time: 625 No new customers arrived
+At time: 626 No new customers arrived
+At time: 627 No new customers arrived
+At time: 628 No new customers arrived
+At time: 629 No new customers arrived
+At time: 629 Customer left
+At time: 630 We have 1 new customer
+Just added a new customer to the line: 630 and order time: 4
+At time: 631 No new customers arrived
+At time: 632 We have 1 new customer
+Just added a new customer to the line: 632 and order time: 6
+At time: 632 Customer left
+At time: 633 No new customers arrived
+At time: 634 No new customers arrived
+At time: 635 No new customers arrived
+At time: 635 Customer left
+At time: 636 We have 1 new customer
+Just added a new customer to the line: 636 and order time: 2
+At time: 637 No new customers arrived
+At time: 638 No new customers arrived
+At time: 639 No new customers arrived
+At time: 639 Customer left
+At time: 640 We have 1 new customer
+Just added a new customer to the line: 640 and order time: 3
+At time: 641 No new customers arrived
+At time: 642 No new customers arrived
+At time: 642 Customer left
+At time: 643 No new customers arrived
+At time: 644 No new customers arrived
+At time: 644 Customer left
+At time: 645 We have 1 new customer
+Just added a new customer to the line: 645 and order time: 5
+At time: 646 No new customers arrived
+At time: 647 No new customers arrived
+At time: 648 We have 1 new customer
+Just added a new customer to the line: 648 and order time: 2
+At time: 649 No new customers arrived
+At time: 649 Customer left
+At time: 650 No new customers arrived
+At time: 651 We have 1 new customer
+Just added a new customer to the line: 651 and order time: 6
+At time: 652 No new customers arrived
+At time: 653 No new customers arrived
+At time: 654 No new customers arrived
+At time: 655 We have 1 new customer
+Just added a new customer to the line: 655 and order time: 2
+At time: 656 No new customers arrived
+At time: 656 Customer left
+At time: 657 No new customers arrived
+At time: 658 No new customers arrived
+At time: 659 We have 1 new customer
+Just added a new customer to the line: 659 and order time: 6
+At time: 659 Customer left
+At time: 660 No new customers arrived
+At time: 661 No new customers arrived
+At time: 662 We have 1 new customer
+Just added a new customer to the line: 662 and order time: 6
+At time: 663 No new customers arrived
+At time: 663 Customer left
+At time: 664 We have 1 new customer
+Just added a new customer to the line: 664 and order time: 5
+At time: 665 No new customers arrived
+At time: 666 No new customers arrived
+At time: 667 No new customers arrived
+At time: 668 No new customers arrived
+At time: 669 No new customers arrived
+At time: 669 Customer left
+At time: 670 No new customers arrived
+At time: 671 No new customers arrived
+At time: 672 No new customers arrived
+At time: 672 Customer left
+At time: 673 No new customers arrived
+At time: 674 We have 1 new customer
+Just added a new customer to the line: 674 and order time: 2
+At time: 675 No new customers arrived
+At time: 676 No new customers arrived
+At time: 677 No new customers arrived
+At time: 678 No new customers arrived
+At time: 679 No new customers arrived
+At time: 679 Customer left
+At time: 680 We have 1 new customer
+Just added a new customer to the line: 680 and order time: 6
+At time: 681 No new customers arrived
+At time: 682 No new customers arrived
+At time: 682 Customer left
+At time: 683 No new customers arrived
+At time: 684 No new customers arrived
+At time: 685 No new customers arrived
+At time: 686 No new customers arrived
+At time: 687 We have 1 new customer
+Just added a new customer to the line: 687 and order time: 5
+At time: 688 No new customers arrived
+At time: 689 No new customers arrived
+At time: 689 Customer left
+At time: 690 We have 1 new customer
+Just added a new customer to the line: 690 and order time: 1
+At time: 691 No new customers arrived
+At time: 692 No new customers arrived
+At time: 693 No new customers arrived
+At time: 694 We have 1 new customer
+Just added a new customer to the line: 694 and order time: 5
+At time: 695 No new customers arrived
+At time: 696 We have 1 new customer
+Just added a new customer to the line: 696 and order time: 6
+At time: 696 Customer left
+At time: 697 No new customers arrived
+At time: 698 No new customers arrived
+At time: 699 No new customers arrived
+At time: 700 We have 1 new customer
+Just added a new customer to the line: 700 and order time: 1
+At time: 701 We have 1 new customer
+Just added a new customer to the line: 701 and order time: 5
+At time: 702 No new customers arrived
+At time: 702 Customer left
+At time: 703 We have 1 new customer
+Just added a new customer to the line: 703 and order time: 3
+At time: 704 No new customers arrived
+At time: 705 No new customers arrived
+At time: 705 Customer left
+At time: 706 No new customers arrived
+At time: 707 We have 1 new customer
+Just added a new customer to the line: 707 and order time: 3
+At time: 708 We have 1 new customer
+Just added a new customer to the line: 708 and order time: 3
+At time: 709 No new customers arrived
+At time: 710 No new customers arrived
+At time: 711 We have 1 new customer
+Just added a new customer to the line: 711 and order time: 5
+At time: 712 No new customers arrived
+At time: 712 Customer left
+At time: 713 No new customers arrived
+At time: 714 No new customers arrived
+At time: 715 We have 1 new customer
+Just added a new customer to the line: 715 and order time: 1
+At time: 716 We have 1 new customer
+Just added a new customer to the line: 716 and order time: 1
+At time: 717 No new customers arrived
+At time: 718 No new customers arrived
+At time: 718 Customer left
+At time: 719 We have 1 new customer
+Just added a new customer to the line: 719 and order time: 2
+At time: 720 No new customers arrived
+At time: 720 Customer left
+At time: 721 No new customers arrived
+At time: 722 No new customers arrived
+At time: 723 No new customers arrived
+At time: 724 No new customers arrived
+At time: 725 No new customers arrived
+At time: 726 No new customers arrived
+At time: 726 Customer left
+At time: 727 No new customers arrived
+At time: 728 No new customers arrived
+At time: 729 No new customers arrived
+At time: 730 We have 1 new customer
+Just added a new customer to the line: 730 and order time: 2
+At time: 731 No new customers arrived
+At time: 732 We have 1 new customer
+Just added a new customer to the line: 732 and order time: 3
+At time: 733 No new customers arrived
+At time: 733 Customer left
+At time: 734 No new customers arrived
+At time: 735 No new customers arrived
+At time: 735 Customer left
+At time: 736 We have 1 new customer
+Just added a new customer to the line: 736 and order time: 2
+At time: 737 We have 1 new customer
+Just added a new customer to the line: 737 and order time: 5
+At time: 738 No new customers arrived
+At time: 739 No new customers arrived
+At time: 740 No new customers arrived
+At time: 741 No new customers arrived
+At time: 741 Customer left
+At time: 742 No new customers arrived
+At time: 743 No new customers arrived
+At time: 744 No new customers arrived
+At time: 745 No new customers arrived
+At time: 745 Customer left
+At time: 746 We have 1 new customer
+Just added a new customer to the line: 746 and order time: 6
+At time: 747 We have 1 new customer
+Just added a new customer to the line: 747 and order time: 3
+At time: 748 No new customers arrived
+At time: 749 No new customers arrived
+At time: 749 Customer left
+At time: 750 No new customers arrived
+At time: 751 No new customers arrived
+At time: 752 No new customers arrived
+At time: 753 We have 1 new customer
+Just added a new customer to the line: 753 and order time: 4
+At time: 753 Customer left
+At time: 754 No new customers arrived
+At time: 755 No new customers arrived
+At time: 756 No new customers arrived
+At time: 757 No new customers arrived
+At time: 758 No new customers arrived
+At time: 759 No new customers arrived
+At time: 759 Customer left
+At time: 760 No new customers arrived
+At time: 761 No new customers arrived
+At time: 761 Customer left
+At time: 762 We have 1 new customer
+Just added a new customer to the line: 762 and order time: 1
+At time: 763 No new customers arrived
+At time: 763 Customer left
+At time: 764 No new customers arrived
+At time: 765 We have 1 new customer
+Just added a new customer to the line: 765 and order time: 4
+At time: 766 We have 1 new customer
+Just added a new customer to the line: 766 and order time: 5
+At time: 766 Customer left
+At time: 767 No new customers arrived
+At time: 768 No new customers arrived
+At time: 769 No new customers arrived
+At time: 769 Customer left
+At time: 770 No new customers arrived
+At time: 771 No new customers arrived
+At time: 772 No new customers arrived
+At time: 773 No new customers arrived
+At time: 773 Customer left
+At time: 774 No new customers arrived
+At time: 775 No new customers arrived
+At time: 776 No new customers arrived
+At time: 776 Customer left
+At time: 777 We have 1 new customer
+Just added a new customer to the line: 777 and order time: 5
+At time: 778 No new customers arrived
+At time: 779 No new customers arrived
+At time: 780 No new customers arrived
+At time: 781 No new customers arrived
+At time: 782 No new customers arrived
+At time: 782 Customer left
+At time: 783 No new customers arrived
+At time: 784 No new customers arrived
+At time: 785 No new customers arrived
+At time: 786 No new customers arrived
+At time: 787 We have 1 new customer
+Just added a new customer to the line: 787 and order time: 4
+At time: 788 No new customers arrived
+At time: 789 No new customers arrived
+At time: 789 Customer left
+At time: 790 No new customers arrived
+At time: 791 No new customers arrived
+At time: 792 No new customers arrived
+At time: 793 No new customers arrived
+At time: 793 Customer left
+At time: 794 No new customers arrived
+At time: 795 No new customers arrived
+At time: 796 No new customers arrived
+At time: 797 No new customers arrived
+At time: 798 No new customers arrived
+At time: 798 Customer left
+At time: 799 No new customers arrived
+At time: 800 No new customers arrived
+At time: 800 Customer left
+At time: 801 No new customers arrived
+At time: 802 No new customers arrived
+At time: 803 We have 1 new customer
+Just added a new customer to the line: 803 and order time: 3
+At time: 804 No new customers arrived
+At time: 805 No new customers arrived
+At time: 805 Customer left
+At time: 806 We have 1 new customer
+Just added a new customer to the line: 806 and order time: 5
+At time: 807 No new customers arrived
+At time: 808 We have 1 new customer
+Just added a new customer to the line: 808 and order time: 6
+At time: 809 No new customers arrived
+At time: 810 No new customers arrived
+At time: 811 No new customers arrived
+At time: 811 Customer left
+At time: 812 No new customers arrived
+At time: 813 No new customers arrived
+At time: 814 No new customers arrived
+At time: 815 No new customers arrived
+At time: 816 No new customers arrived
+At time: 817 No new customers arrived
+At time: 817 Customer left
+At time: 818 No new customers arrived
+At time: 819 No new customers arrived
+At time: 820 No new customers arrived
+At time: 821 No new customers arrived
+At time: 822 No new customers arrived
+At time: 822 Customer left
+At time: 823 No new customers arrived
+At time: 824 No new customers arrived
+At time: 825 No new customers arrived
+At time: 826 No new customers arrived
+At time: 826 Customer left
+At time: 827 No new customers arrived
+At time: 828 No new customers arrived
+At time: 829 No new customers arrived
+At time: 830 We have 1 new customer
+Just added a new customer to the line: 830 and order time: 3
+At time: 831 No new customers arrived
+At time: 832 No new customers arrived
+At time: 832 Customer left
+At time: 833 No new customers arrived
+At time: 834 No new customers arrived
+At time: 835 No new customers arrived
+At time: 836 No new customers arrived
+At time: 837 No new customers arrived
+At time: 838 We have 1 new customer
+Just added a new customer to the line: 838 and order time: 6
+At time: 839 No new customers arrived
+At time: 839 Customer left
+At time: 840 No new customers arrived
+At time: 841 No new customers arrived
+At time: 842 No new customers arrived
+At time: 843 No new customers arrived
+At time: 843 Customer left
+At time: 844 No new customers arrived
+At time: 845 No new customers arrived
+At time: 846 No new customers arrived
+At time: 847 No new customers arrived
+At time: 848 No new customers arrived
+At time: 849 We have 1 new customer
+Just added a new customer to the line: 849 and order time: 6
+At time: 850 No new customers arrived
+At time: 850 Customer left
+At time: 851 No new customers arrived
+At time: 852 No new customers arrived
+At time: 853 No new customers arrived
+At time: 854 No new customers arrived
+At time: 855 No new customers arrived
+At time: 856 No new customers arrived
+At time: 857 No new customers arrived
+At time: 857 Customer left
+At time: 858 No new customers arrived
+At time: 859 No new customers arrived
+At time: 860 No new customers arrived
+At time: 861 No new customers arrived
+At time: 862 No new customers arrived
+At time: 863 No new customers arrived
+At time: 864 No new customers arrived
+At time: 865 No new customers arrived
+At time: 866 We have 1 new customer
+Just added a new customer to the line: 866 and order time: 4
+At time: 867 No new customers arrived
+At time: 868 No new customers arrived
+At time: 869 We have 1 new customer
+Just added a new customer to the line: 869 and order time: 4
+At time: 870 No new customers arrived
+At time: 870 Customer left
+At time: 871 We have 1 new customer
+Just added a new customer to the line: 871 and order time: 2
+At time: 872 We have 1 new customer
+Just added a new customer to the line: 872 and order time: 6
+At time: 873 No new customers arrived
+At time: 874 No new customers arrived
+At time: 875 We have 1 new customer
+Just added a new customer to the line: 875 and order time: 6
+At time: 875 Customer left
+At time: 876 No new customers arrived
+At time: 877 No new customers arrived
+At time: 878 No new customers arrived
+At time: 878 Customer left
+At time: 879 No new customers arrived
+At time: 880 No new customers arrived
+At time: 881 No new customers arrived
+At time: 882 We have 1 new customer
+Just added a new customer to the line: 882 and order time: 3
+At time: 883 No new customers arrived
+At time: 884 No new customers arrived
+At time: 885 No new customers arrived
+At time: 885 Customer left
+At time: 886 We have 1 new customer
+Just added a new customer to the line: 886 and order time: 3
+At time: 887 No new customers arrived
+At time: 888 No new customers arrived
+At time: 889 We have 1 new customer
+Just added a new customer to the line: 889 and order time: 2
+At time: 890 No new customers arrived
+At time: 891 No new customers arrived
+At time: 892 No new customers arrived
+At time: 892 Customer left
+At time: 893 We have 1 new customer
+Just added a new customer to the line: 893 and order time: 3
+At time: 894 No new customers arrived
+At time: 895 No new customers arrived
+At time: 896 No new customers arrived
+At time: 896 Customer left
+At time: 897 No new customers arrived
+At time: 898 No new customers arrived
+At time: 899 No new customers arrived
+At time: 900 No new customers arrived
+At time: 900 Customer left
+At time: 901 No new customers arrived
+At time: 902 No new customers arrived
+At time: 903 No new customers arrived
+At time: 903 Customer left
+At time: 904 No new customers arrived
+At time: 905 We have 1 new customer
+Just added a new customer to the line: 905 and order time: 6
+At time: 906 We have 1 new customer
+Just added a new customer to the line: 906 and order time: 3
+At time: 907 No new customers arrived
+At time: 907 Customer left
+At time: 908 No new customers arrived
+At time: 909 No new customers arrived
+At time: 910 No new customers arrived
+At time: 911 No new customers arrived
+At time: 912 No new customers arrived
+At time: 913 No new customers arrived
+At time: 914 No new customers arrived
+At time: 914 Customer left
+At time: 915 No new customers arrived
+At time: 916 No new customers arrived
+At time: 917 No new customers arrived
+At time: 918 No new customers arrived
+At time: 918 Customer left
+At time: 919 No new customers arrived
+At time: 920 No new customers arrived
+At time: 921 No new customers arrived
+At time: 922 No new customers arrived
+At time: 923 No new customers arrived
+At time: 924 No new customers arrived
+At time: 925 No new customers arrived
+At time: 926 No new customers arrived
+At time: 927 No new customers arrived
+At time: 928 No new customers arrived
+At time: 929 No new customers arrived
+At time: 930 No new customers arrived
+At time: 931 No new customers arrived
+At time: 932 No new customers arrived
+At time: 933 We have 1 new customer
+Just added a new customer to the line: 933 and order time: 2
+At time: 934 We have 1 new customer
+Just added a new customer to the line: 934 and order time: 4
+At time: 935 No new customers arrived
+At time: 935 Customer left
+At time: 936 No new customers arrived
+At time: 937 No new customers arrived
+At time: 938 No new customers arrived
+At time: 939 No new customers arrived
+At time: 940 No new customers arrived
+At time: 940 Customer left
+At time: 941 No new customers arrived
+At time: 942 No new customers arrived
+At time: 943 No new customers arrived
+At time: 944 No new customers arrived
+At time: 945 No new customers arrived
+At time: 946 No new customers arrived
+At time: 947 No new customers arrived
+At time: 948 No new customers arrived
+At time: 949 No new customers arrived
+At time: 950 We have 1 new customer
+Just added a new customer to the line: 950 and order time: 6
+At time: 951 No new customers arrived
+At time: 952 No new customers arrived
+At time: 953 No new customers arrived
+At time: 954 No new customers arrived
+At time: 955 No new customers arrived
+At time: 956 No new customers arrived
+At time: 956 Customer left
+At time: 957 No new customers arrived
+At time: 958 No new customers arrived
+At time: 959 No new customers arrived
+At time: 960 No new customers arrived
+At time: 961 No new customers arrived
+At time: 962 No new customers arrived
+At time: 963 No new customers arrived
+At time: 964 No new customers arrived
+At time: 965 We have 1 new customer
+Just added a new customer to the line: 965 and order time: 6
+At time: 966 We have 1 new customer
+Just added a new customer to the line: 966 and order time: 5
+At time: 967 No new customers arrived
+At time: 968 No new customers arrived
+At time: 969 No new customers arrived
+At time: 970 No new customers arrived
+At time: 971 No new customers arrived
+At time: 971 Customer left
+At time: 972 No new customers arrived
+At time: 973 No new customers arrived
+At time: 974 No new customers arrived
+At time: 975 No new customers arrived
+At time: 976 No new customers arrived
+At time: 977 No new customers arrived
+At time: 977 Customer left
+At time: 978 No new customers arrived
+At time: 979 No new customers arrived
+At time: 980 No new customers arrived
+At time: 981 We have 1 new customer
+Just added a new customer to the line: 981 and order time: 1
+At time: 982 No new customers arrived
+At time: 982 Customer left
+At time: 983 No new customers arrived
+At time: 984 No new customers arrived
+At time: 985 No new customers arrived
+At time: 986 No new customers arrived
+At time: 987 No new customers arrived
+At time: 988 No new customers arrived
+At time: 989 No new customers arrived
+At time: 990 We have 1 new customer
+Just added a new customer to the line: 990 and order time: 2
+At time: 991 No new customers arrived
+At time: 992 No new customers arrived
+At time: 992 Customer left
+At time: 993 No new customers arrived
+At time: 994 No new customers arrived
+At time: 995 No new customers arrived
+At time: 996 No new customers arrived
+At time: 997 No new customers arrived
+At time: 998 No new customers arrived
+At time: 999 No new customers arrived
+At time: 1000 No new customers arrived
+At time: 1001 We have 1 new customer
+Just added a new customer to the line: 1001 and order time: 3
+At time: 1002 No new customers arrived
+At time: 1003 No new customers arrived
+At time: 1004 No new customers arrived
+At time: 1004 Customer left
+At time: 1005 No new customers arrived
+At time: 1006 No new customers arrived
+At time: 1007 We have 1 new customer
+Just added a new customer to the line: 1007 and order time: 5
+At time: 1008 No new customers arrived
+At time: 1009 No new customers arrived
+At time: 1010 No new customers arrived
+At time: 1011 No new customers arrived
+At time: 1012 No new customers arrived
+At time: 1012 Customer left
+At time: 1013 No new customers arrived
+At time: 1014 We have 1 new customer
+Just added a new customer to the line: 1014 and order time: 2
+At time: 1015 No new customers arrived
+At time: 1016 No new customers arrived
+At time: 1016 Customer left
+At time: 1017 No new customers arrived
+At time: 1018 No new customers arrived
+At time: 1019 No new customers arrived
+At time: 1020 No new customers arrived
+CUSTOMER QUEUE STATS: 
+Average wait time: 3.0291
+Best wait time: 0 at time 0
+Worst wait time: 95 at time 312
+Average service time: 5.97219
+Best service time: 2 at time 601
+Worst service time: 98 at time 312
+Average queue size: 1.00948
+Best queue size: 0 at time 0
+Worst queue size: 27 at time 260
